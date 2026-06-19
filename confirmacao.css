@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#8e8e8e;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+
+    width:90%;
+
+    max-width:1000px;
+
+    margin:40px auto;
+
+    text-align:center;
+}
+h1{
+
+    font-size:50px;
+
+    margin-bottom:30px;
+}
+.linha{
+
+    width:90%;
+
+    height:8px;
+
+    background:white;
+
+    margin:40px auto;
+}
+h2{
+
+    color:white;
+
+    font-size:40px;
+
+    font-weight:normal;
+
+    line-height:1.4;
+}
+.caminhao{
+    width: 80%;
+    max-width: 900px;
+    display: block;
+    margin: 50px auto;
+}
+.botao{
+
+    display:inline-block;
+
+    margin-top:30px;
+
+    padding:20px 40px;
+
+    background:#d9d9d9;
+
+    color:white;
+
+    text-decoration:none;
+
+    font-size:28px;
+
+    transition:0.3s;
+}
+.botao:hover{
+
+    transform:scale(1.05);
+
+    background:#00a2e8;
+}

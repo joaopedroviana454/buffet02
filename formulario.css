@@ -1,0 +1,99 @@
+.formulario{
+
+    width:80%;
+    max-width:800px;
+
+    margin:50px auto;
+
+    background:#d9d9d9;
+
+    padding:40px;
+
+    border-radius:10px;
+}
+.formulario h2{
+
+    width:60%;
+
+    margin:auto;
+
+    text-align:center;
+
+    background:#ececec;
+
+    padding:15px;
+
+    margin-bottom:40px;
+}
+form{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+}
+input{
+
+    width:65%;
+
+    padding:12px;
+
+    border:none;
+
+    font-size:20px;
+
+    background:white;
+}
+label{
+
+    font-size:28px;
+}
+.data-hora{
+
+    display:flex;
+
+    gap:30px;
+}
+.separador{
+
+    width:100%;
+
+    height:8px;
+
+    background:black;
+
+    margin:25px 0;
+}
+form h3{
+
+    text-align:center;
+
+    font-size:32px;
+
+    font-weight:normal;
+}
+button{
+
+    width:250px;
+
+    margin:40px auto 0;
+
+    padding:15px;
+
+    font-size:28px;
+
+    border:none;
+
+    cursor:pointer;
+
+    transition:0.3s;
+}
+button:hover{
+
+    transform:scale(1.05);
+
+    background:#00a2e8;
+
+    color:white;
+}
