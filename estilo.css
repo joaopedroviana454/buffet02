@@ -19,6 +19,9 @@ header{
 header p{
     margin-top:10px;
 }
+section{
+    color: white;
+}
 .banner{
     height:400px;
 
