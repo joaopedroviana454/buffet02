@@ -27,7 +27,7 @@ header p{
             rgba(255,255,255,0.7),
             rgba(255,255,255,0.7)
         );
-        background-image: url(../../../Imagens/buffet01.jpg);
+        background-image: url(buffet01.jpg);
     background-size:cover;
     background-position:center;
 
@@ -74,7 +74,7 @@ header p{
             rgba(0,0,0,0.7),
             rgba(0,0,0,0.7)
         );
-        background-image: url(../../../Imagens/buffet02.jpg);
+        background-image: url(buffet02.jpg);
     background-size:cover;
 }
 .medio{
@@ -84,7 +84,7 @@ header p{
             rgba(0,0,0,0.7),
             rgba(0,0,0,0.7)
         );
-        background-image: url(../../../Imagens/buffet03.jpg);
+        background-image: url(buffet03.jpg);
     background-size:cover;
 }
 .grande{
@@ -94,7 +94,7 @@ header p{
             rgba(0,0,0,0.7),
             rgba(0,0,0,0.7)
         );
-        background-image: url(../../../Imagens/buffet04.jpg);
+        background-image: url(buffet04.jpg);
     background-size:cover;
 }
 .card:hover{
